@@ -1,1 +1,1 @@
-# HCF-and-LCM
+Personally built HCF and LCM using OOP 
